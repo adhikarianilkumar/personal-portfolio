@@ -9,17 +9,22 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
+    "framer-motion": "^12.23.26",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
+    "@next/bundle-analyzer": "^16.1.1",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
+    "prettier": "^3.7.4",
+    "prettier-plugin-tailwindcss": "^0.7.2",
     "sass": "^1.97.1",
     "tailwindcss": "^4",
     "typescript": "^5"
